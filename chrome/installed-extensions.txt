@@ -1,0 +1,5 @@
+List of Installed Chrome Extensions:
+1. Grammarly
+2. PDF Converter Pro
+3. AdBlock Plus
+4. Honey

@@ -1,0 +1,7 @@
+Steps to Remove Suspicious Firefox Add-ons:
+1. Open Firefox and type about:addons
+2. Go to “Extensions” tab
+3. Locate “Free VPN”
+4. Click on the three dots and select “Remove”
+5. Restart Firefox
+6. Confirm removal by reopening the Add-ons page

@@ -1,0 +1,2 @@
+Suspicious Chrome Extensions:
+1. PDF Converter Pro — Unverified developer, broad permissions

@@ -1,0 +1,5 @@
+List of Installed Firefox Add-ons:
+1. uBlock Origin
+2. Free VPN
+3. Dark Reader
+4. Bitwarden

@@ -1,0 +1,7 @@
+Steps to Remove Suspicious Chrome Extensions:
+1. Open Chrome and type chrome://extensions/
+2. Find "PDF Converter Pro"
+3. Click "Remove"
+4. Confirm removal
+5. Restart Chrome
+6. Recheck the extension list to ensure it's gone

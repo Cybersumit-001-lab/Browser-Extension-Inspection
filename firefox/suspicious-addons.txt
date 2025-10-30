@@ -1,0 +1,2 @@
+Suspicious Firefox Add-ons:
+1. Free VPN — Unknown source, poor performance
